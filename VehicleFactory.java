@@ -1,4 +1,5 @@
-public class VehicleFactory {
+public class VehicleFactory { //Factory Class
+  //generates object based on user input
   public static Vehicle getVehicle(String vehicleType){
     if(vehicleType == null){
          return null;

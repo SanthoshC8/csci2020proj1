@@ -1,5 +1,6 @@
-public class VehicleMaker {
-
+public class VehicleMaker { //Main user imput
+  //This is the main driver that will run all 3 options available
+  //the 3 subclasses will be instaniated
   public static void main(String[] args) {
     VehicleFactory vehicleFactory = new VehicleFactory();
 

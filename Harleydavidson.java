@@ -1,4 +1,4 @@
-public class Harleydavidson implements Vehicle{
+public class Harleydavidson implements Vehicle{//Harleydavidson product or subclass
   @Override
   public void choice() {
     System.out.println("\nYou would like a harley-davidson!");
